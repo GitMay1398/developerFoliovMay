@@ -21,7 +21,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/mayolie-coulibaly/",
   gmail: "mayoliecoulibaly@gmail.com",
   gitlab: "",
-  facebook: "",
+  facebook: ""
   twitter:"https://twitter.com/MayolieC"
   // Instagram and Twitter are also supported in the links!
 };
@@ -129,7 +129,7 @@ const openSource = {
 // Some Big Projects You have worked with your company
 
 const bigProjects = {
-  title: "Les projets auquelles j'ai pu participé",
+  title: "Les projets auquelles j'ai pu participés",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
@@ -186,7 +186,8 @@ const achievementSection = {
         { name: "Certification", url: "" },
         { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
       ]
-    }  ]
+    }  
+  ]
 };
 
 // Blogs Section
@@ -239,10 +240,10 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
-  subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  title: emoji("Me Contacter ☎️"),
+  subtitle: "À la recherche d'un nouveau talent ? Je suis à l'écoute.",
+  number: "Je suis joiniable à l'adresse suivante :",
+  email_address: "mayoliecoulibaly@gmail.com"
 };
 
 //Twitter Section
