@@ -21,7 +21,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/mayolie-coulibaly/",
   gmail: "mayoliecoulibaly@gmail.com",
   gitlab: "",
-  facebook: ""
+  facebook: "",
   twitter:"https://twitter.com/MayolieC"
   // Instagram and Twitter are also supported in the links!
 };
