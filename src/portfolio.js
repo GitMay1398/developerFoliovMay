@@ -1,4 +1,4 @@
-﻿
+
 /* Change this file to get your personal Portfolio */
 
 // Your Summary And Greeting Section
@@ -7,28 +7,29 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
-  subTitle: emoji("A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  username: "May says Hi ",
+  title: "Bonjour, je suis Mayolie",
+  subTitle: emoji("Une jeune femme fraîchement diplômé de Grenoble École de Management 🚀 après 4 ans d'alternance dans différentes entreprises je suis à la recherche de mon premier CDI !  Le tracking, le JavaScript et la Data n'ont aucun secret pour moi. "),
+  resumeLink: "CV A AJOUTER "
 };
 
-// Your Social Media Link
+// Your Social Media Links
 
 const socialMediaLinks = {
 
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  github: "",
+  linkedin: "https://www.linkedin.com/in/mayolie-coulibaly/",
+  gmail: "mayoliecoulibaly@gmail.com",
+  gitlab: "",
+  facebook: ""
+  twitter:"https://twitter.com/MayolieC"
   // Instagram and Twitter are also supported in the links!
 };
 
 // Your Skills Section
 
 const skillsSection = {
-  title: "What i do",
+  title: "Mes compétences",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
@@ -119,16 +120,16 @@ const techStack = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  githubConvertedToken: "Your Github Converted Token",
-  githubUserName: "Your Github Username",
-  showGithubProfile :"true" // Set true or false to show Contact profile using Github, defaults to false 
+  githubConvertedToken: "MjRmMGQ2YTgwMmNhNDFkMWVjMmRhNmY5YjY3ZDA1MTUwNzVjMzQ4OQ==",
+  githubUserName: "GitMay1398",
+  showGithubProfile :"false" // Set true or false to show Contact profile using Github, defaults to false 
 };
 
 
 // Some Big Projects You have worked with your company
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "Les projets auquelles j'ai pu participé",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
@@ -147,12 +148,12 @@ const bigProjects = {
 const achievementSection = {
 
   title: emoji("Achievements And Certifications 🏆 "),
-  subtitle: "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+  subtitle: "Mes diplômes et certifications",
 
   achivementsCards: [
     {
-      title: "Google Code-In Finalist",
-      subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+      title: "Master Manager des Systèmes d'Information et du Numérique",
+      subtitle: "Grenoble École de Management, 2019-2021",
       image:
         "https://1.bp.blogspot.com/-Ig-v1tDXZt4/XDODmZvWp1I/AAAAAAAAB0A/KtbFdBPFVQw2O15FekkIR0Yg8MUp--rngCLcBGAs/s1600/GCI%2B-%2BVertical%2B-%2BGray%2BText%2B-%2BWhite%2BBG.png",
       footerLink: [
@@ -162,22 +163,30 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Assistant Action",
-      subtitle: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+      title: "Licence E-commerce et Marketing Numérique",
+      subtitle: "EFREI x Université d'Évry Val d'Essonne, 2018-2019",
       image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png",
       footerLink: [{ name: "View Google Assistant Action", url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en" }]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      title: "DUT Informatique",
+      subtitle: "IUT d'Orsay, 2016-2018",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu93Bd6LDbxPEOXr-hfLqLYzmHny8c0MJoI3exQP-lwpFLRT7g&s",
       footerLink: [
         { name: "Certification", url: "" },
         { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
       ]
     }
-  ]
+    {
+      title: "Baccalauréat Scientifique ",
+      subtitle: "Lycée Julie Victoire Daubié, 2016",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu93Bd6LDbxPEOXr-hfLqLYzmHny8c0MJoI3exQP-lwpFLRT7g&s",
+      footerLink: [
+        { name: "Certification", url: "" },
+        { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
+      ]
+    }  ]
 };
 
 // Blogs Section
@@ -240,7 +249,7 @@ const contactInfo = {
 
 const twitterDetails = {
 
-  userName : "twitter"//Replace "twitter" with your twitter username without @
+  userName : "MayolieC"//Replace "twitter" with your twitter username without @
   
 };
 export { greeting, socialMediaLinks, skillsSection, techStack, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
