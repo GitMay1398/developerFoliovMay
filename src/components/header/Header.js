@@ -24,6 +24,7 @@ function Header() {
           <li>
             <a href="#projects">Projets</a>
           </li>
+           <li>
             <a href="#achievements">Mon parcours académique</a>
           </li>
           <li>
