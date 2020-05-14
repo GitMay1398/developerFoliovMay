@@ -3,7 +3,7 @@ import "./TalkCard.css";
 
 export default function TalkCard({talkDetails}) {
   return (
-    <div id="TalkCard">
+    <div>
       <div class="container">
         <div class="rectangle">
           <div class="diagonal-fill"></div>
