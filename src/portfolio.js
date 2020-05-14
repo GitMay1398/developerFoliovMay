@@ -95,7 +95,7 @@ https://fontawesome.com/icons?d=gallery */
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Frontend/Design",  //Insert stack or technology you have experience in
