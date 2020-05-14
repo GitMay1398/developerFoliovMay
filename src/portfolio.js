@@ -58,8 +58,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fal fa-file-excel"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      skillName: "Commander Act",
+      fontAwesomeClassname: "fad fa-hexagon"
     },
     {
       skillName: "swift",
