@@ -31,11 +31,11 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "Mes compétences",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "UN PROFIL BUSINESS & TECHNIQUE ",
   skills: [
-    emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
+    emoji("⚡ blablabla 1  "),
+    emoji("⚡ blablabla 2"),
+    emoji("⚡ blablabla 3")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
