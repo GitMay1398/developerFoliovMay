@@ -51,6 +51,12 @@
   display: inline-block;
   transform-origin: 70% 70%;
 }
+#mayMemoji {
+  height: 1em;
+  width: 1em; 
+  margin: 0px 0.05em 0px 0.1em; 
+  vertical-align: -0.1em;
+}
 
 @keyframes wave {
   0% {
