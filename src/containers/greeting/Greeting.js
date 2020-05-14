@@ -30,7 +30,7 @@ export default function Greeting() {
           </div>
         </div>
         <div className="greeting-image-div">
-          <img alt="may et internet" src={require("../../assests/images/undraw_just_browsing_m0vg.svg")}></img>
+          <img alt="may et internet" src={require("../../assests/images/mainFitting.svg")}></img>
         </div>
       </div>
     </div>
