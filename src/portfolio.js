@@ -174,15 +174,6 @@ const achievementSection = {
         { name: "Certification", url: "" },
         { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
       ]
-    },
-    {
-      title: "Baccalauréat Scientifique ",
-      subtitle: "Lycée Julie Victoire Daubié, 2016",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu93Bd6LDbxPEOXr-hfLqLYzmHny8c0MJoI3exQP-lwpFLRT7g&s",
-      footerLink: [
-        { name: "Certification", url: "" },
-        { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
-      ]
     }  
   ]
 };
