@@ -9,7 +9,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "May says Hi ",
   title: "Bonjour, je suis Mayolie",
-  subTitle: emoji("Jeune diplômée de Grenoble École de Management 🚀 après 4 ans d'alternance dans différentes entreprises je suis à la recherche de mon premier CDI !  Les outils Adtech/Martech, le JavaScript et la Data n'ont aucun secret pour moi. "),
+  subTitle: emoji("Jeune diplômée de Grenoble École de Management 🚀 après 4 ans d'alternance dans différentes entreprises je suis à la recherche de mon premier CDI ! </br> Les outils Adtech/Martech, le JavaScript et la Data n'ont aucun secret pour moi. "),
   resumeLink: "CV A AJOUTER "
 };
 
