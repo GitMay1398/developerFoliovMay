@@ -56,7 +56,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "excel",
-      fontAwesomeClassname: "fal fa-file-excel"
+      fontAwesomeClassname: "fas fa-file-excel"
     },
     {
       skillName: "Commander Act",
