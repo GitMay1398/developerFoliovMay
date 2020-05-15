@@ -59,10 +59,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-file-excel"
     },
     {
-      skillName: "Commander Act",
-      fontAwesomeClassname: "fad fa-hexagon"
-    },
-    {
       skillName: "swift",
       fontAwesomeClassname: "fab fa-swift"
     },
