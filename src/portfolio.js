@@ -147,7 +147,7 @@ const achievementSection = {
     {
       title: "Master Manager des Systèmes d'Information et du Numérique",
       subtitle: "Grenoble École de Management, 2019-2021",
-      image:"require("../assests/images/grenoble_logo.jpeg")",
+      image:"https://drive.google.com/file/d/1-3gbXVxv0I8Luz_r-z108xzim1HG-2MG/view?usp=sharing",
       footerLink: [
         { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
         { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
