@@ -11,7 +11,7 @@ const greeting = {
   title: "Bonjour, je suis Mayolie",
   subTitle: emoji("Jeune diplômée de Grenoble École de Management 🚀 Après 4 ans d'alternance dans différentes entreprises je suis à la recherche de mon premier CDI !"),
   subTitle2:"Les outils Adtech - Martech, le JavaScript et la Data n'ont aucun secret pour moi. ",
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1j4ct7aAxo-obGgass8u6sEDaSGF4Vet7/view?usp=sharing"
 };
 
 // Your Social Media Links
