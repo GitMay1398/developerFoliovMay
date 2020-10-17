@@ -11,7 +11,7 @@ const greeting = {
   title: "Bonjour, je suis Mayolie",
   subTitle: emoji("Jeune diplômée de Grenoble École de Management 🚀 Après 4 ans d'alternance dans différentes entreprises je suis à la recherche de mon premier CDI !"),
   subTitle2:"Les outils Adtech - Martech, le JavaScript et la Data n'ont aucun secret pour moi. ",
-  resumeLink: "CV A AJOUTER "
+  resumeLink: "https://www.cjoint.com/doc/20_10/JJrlRTAhjmW_Mayolie-Coulibaly-CV-2020.pdf"
 };
 
 // Your Social Media Links
@@ -31,11 +31,11 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "Mes compétences",
-  subTitle: "UN PROFIL BUSINESS & TECHNIQUE ",
+  subTitle: "UN PROFIL TECHNIQUE ORIENTÉE BUSINESS ",
   skills: [
-    emoji("⚡ blablabla 1  "),
-    emoji("⚡ blablabla 2"),
-    emoji("⚡ blablabla 3")
+    emoji("⚡ blablabla 1 "),
+    emoji("⚡ blablabla 2 "),
+    emoji("⚡ blablabla 3 ")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
