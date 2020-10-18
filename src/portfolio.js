@@ -44,7 +44,7 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "html-5",
-      fontAwesomeClassname: "fab fa-jira"
+      fontAwesomeClassname: "fab fa-html5"
     },
     {
       skillName: "css3",
@@ -59,32 +59,32 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-file-excel"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "jira",
+      fontAwesomeClassname: "fab fa-jira"
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+      skillName: "inVision",
+      fontAwesomeClassname: "fab fa-invision"
     },
     {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
+      skillName: "confluence",
+      fontAwesomeClassname: "fab fa-confluence"
     },
     {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
+      skillName: "trello",
+      fontAwesomeClassname: "fas fa-trello"
     },
     {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
+      skillName: "analytics",
+      fontAwesomeClassname: "fab fa-analytics"
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      skillName: "github",
+      fontAwesomeClassname: "fab fa-github-square"
     }
   ]
 };
