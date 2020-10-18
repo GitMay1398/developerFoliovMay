@@ -33,9 +33,9 @@ const skillsSection = {
   title: "Mes compétences",
   subTitle: "UN PROFIL TECHNIQUE ORIENTÉE BUSINESS ",
   skills: [
-    emoji("⚡ blablabla 1 "),
-    emoji("⚡ blablabla 2 "),
-    emoji("⚡ blablabla 3 ")
+    emoji("⚡ Du code à la gestion de projet en passant par l'UX, j'aime être polyvalente"),
+    emoji("⚡ Customer-oriented : le produit réalisé apporte de la valeur à ces utilisateurs"),
+    emoji("⚡ Organisation et communication sont mes atouts majeurs ")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -44,7 +44,7 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      fontAwesomeClassname: "fab fa-jira"
     },
     {
       skillName: "css3",
