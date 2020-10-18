@@ -76,11 +76,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "trello",
-      fontAwesomeClassname: "fas fa-trello"
+      fontAwesomeClassname: "fab fa-trello"
     },
     {
       skillName: "analytics",
-      fontAwesomeClassname: "fab fa-analytics"
+      fontAwesomeClassname: "fas fa-chart-line"
     },
     {
       skillName: "github",
