@@ -55,37 +55,38 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "excel",
-      fontAwesomeClassname: "fas fa-file-excel"
-    },
-    {
-      skillName: "jira",
-      fontAwesomeClassname: "fab fa-jira"
-    },
-    {
-      skillName: "inVision",
-      fontAwesomeClassname: "fab fa-invision"
-    },
-    {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "confluence",
-      fontAwesomeClassname: "fab fa-confluence"
+      skillName: "github",
+      fontAwesomeClassname: "fab fa-github-square"
+    }
+    {
+      skillName: "excel",
+      fontAwesomeClassname: "fas fa-file-excel"
     },
     {
       skillName: "trello",
       fontAwesomeClassname: "fab fa-trello"
     },
     {
+      skillName: "jira",
+      fontAwesomeClassname: "fab fa-jira"
+    },
+    {
+      skillName: "confluence",
+      fontAwesomeClassname: "fab fa-confluence"
+    },
+    {
+      skillName: "inVision",
+      fontAwesomeClassname: "fab fa-invision"
+    },
+    {
       skillName: "analytics",
       fontAwesomeClassname: "fas fa-chart-line"
     },
-    {
-      skillName: "github",
-      fontAwesomeClassname: "fab fa-github-square"
-    }
+    
   ]
 };
 
