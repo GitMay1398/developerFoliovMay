@@ -33,6 +33,7 @@ const skillsSection = {
   title: "Mes compétences",
   subTitle: "UN PROFIL TECHNIQUE ORIENTÉE BUSINESS ",
   skills:
+  [
     emoji("⚡ Du développement à la gestion de projet en passant par l'UX "),
     emoji("⚡ Customer-oriented : le produit réalisé apporte de la valeur à ces utilisateurs"),
     emoji("⚡ Organisation et communication sont mes atouts majeurs ")
