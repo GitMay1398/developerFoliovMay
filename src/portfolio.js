@@ -61,7 +61,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "github",
       fontAwesomeClassname: "fab fa-github-square"
-    }
+    },
     {
       skillName: "excel",
       fontAwesomeClassname: "fas fa-file-excel"
@@ -85,7 +85,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "analytics",
       fontAwesomeClassname: "fas fa-chart-line"
-    },
+    }
     
   ]
 };
