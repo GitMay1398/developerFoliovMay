@@ -9,6 +9,7 @@
     "axios": "^0.19.2",
     "gh-pages": "^2.1.1",
     "graphql": "^14.5.8",
+    "instapro": "^4.0.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-easy-emoji": "^1.3.0",
