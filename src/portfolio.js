@@ -35,7 +35,7 @@ const skillsSection = {
   skills:
   [
     emoji("⚡ Un profil technique orientée business et client"),
-    emoji("⚡ Customer-oriented : le produit réalisé apporte de la valeur à ces utilisateurs"),
+    emoji("⚡ Capacité d’analyse & data driven"),
     emoji("⚡ Organisation et communication sont mes atouts majeurs ")
   ],
 
