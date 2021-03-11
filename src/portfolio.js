@@ -91,6 +91,72 @@ https://fontawesome.com/icons?d=gallery */
   ]
 };
 
+const educationInfo = {
+  display: true, // Set false to hide this section, defaults to true
+  schools: [
+    {
+      schoolName: "Grenoble École de Management",
+      logo: require("./assets/images/gemlogo.png"),
+      subHeader: "Master Manager des Systèmes d'Information et du Numérique",
+      duration: "September 2019 - Septembre 2021",
+      desc: "Mémoire : 'La personnalisation de l'expérience client et les donnés personnelles'",
+      descBullets: []
+    },
+    {
+      schoolName: "EFREI x Université d'Evry Val d'Essonne ",
+      logo: require("./assets/images/efreixevry.png"),
+      subHeader: "Licence professionnelle E-commerce et Marketing Numérique",
+      duration: "September 2018 - Septembre 2019",
+      desc:
+        "Mémoire : 'Comment une entreprise arrive-t-elle à prédire les besoins de ses consommateurs ?' ",
+      descBullets: []
+    },
+    {
+      schoolName: "IUT d'Orsay",
+      logo: require("./assets/images/iutorsay.png"),
+      subHeader: "DUT Informatique",
+      duration: "September 2016 - Septembre 2018",
+      desc:
+        "Mémoire sur l'agilité  ",
+      descBullets: []
+    }
+  ]
+};
+// Work experience section
+
+const workExperiences = {
+  display: true, //Set it to true to show workExperiences Section
+  experience: [
+    {
+      role: "Software Engineer",
+      company: "Facebook",
+      companylogo: require("./assets/images/facebookLogo.png"),
+      date: "June 2018 – Present",
+      desc:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      descBullets: [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      ]
+    },
+    {
+      role: "Front-End Developer",
+      company: "Quora",
+      companylogo: require("./assets/images/quoraLogo.png"),
+      date: "May 2017 – May 2018",
+      desc:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      role: "Software Engineer Intern",
+      company: "Airbnb",
+      companylogo: require("./assets/images/airbnbLogo.png"),
+      date: "Jan 2015 – Sep 2015",
+      desc:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  ]
+};
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
