@@ -96,7 +96,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Grenoble École de Management",
-      logo: require("assets/images/gemlogo.png"),
+      logo: require("./assets/images/gemlogo.png"),
       subHeader: "Master Manager des Systèmes d'Information et du Numérique",
       duration: "September 2019 - Septembre 2021",
       desc: "Mémoire : 'La personnalisation de l'expérience client et les donnés personnelles'",
@@ -104,7 +104,7 @@ const educationInfo = {
     },
     {
       schoolName: "EFREI x Université d'Evry Val d'Essonne ",
-      logo: require("assets/images/efreixevry.png"),
+      logo: require("./assets/images/efreixevry.png"),
       subHeader: "Licence professionnelle E-commerce et Marketing Numérique",
       duration: "September 2018 - Septembre 2019",
       desc:
@@ -113,7 +113,7 @@ const educationInfo = {
     },
     {
       schoolName: "IUT d'Orsay",
-      logo: require("assets/images/iutorsay.png"),
+      logo: require("./assets/images/iutorsay.png"),
       subHeader: "DUT Informatique",
       duration: "September 2016 - Septembre 2018",
       desc:
