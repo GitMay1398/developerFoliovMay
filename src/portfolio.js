@@ -96,7 +96,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Grenoble École de Management",
-      logo: require("./assets/images/gemlogo.png"),
+      logo: require("assets/images/gemlogo.png"),
       subHeader: "Master Manager des Systèmes d'Information et du Numérique",
       duration: "September 2019 - Septembre 2021",
       desc: "Mémoire : 'La personnalisation de l'expérience client et les donnés personnelles'",
