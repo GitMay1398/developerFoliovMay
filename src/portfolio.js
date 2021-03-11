@@ -237,4 +237,4 @@ const twitterDetails = {
   userName : "MayolieC"//Replace "twitter" with your twitter username without @
   
 };
-export { greeting, socialMediaLinks, skillsSection, techStack,  bigProjects, openSource, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
+export { educationInfo, workExperiences, greeting, socialMediaLinks, skillsSection, techStack,  bigProjects, openSource, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
