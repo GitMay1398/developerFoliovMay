@@ -104,7 +104,7 @@ const educationInfo = {
     },
     {
       schoolName: "EFREI x Université d'Evry Val d'Essonne ",
-      logo: require("./assets/images/efreixevry.png"),
+      logo: require("assets/images/efreixevry.png"),
       subHeader: "Licence professionnelle E-commerce et Marketing Numérique",
       duration: "September 2018 - Septembre 2019",
       desc:
@@ -113,7 +113,7 @@ const educationInfo = {
     },
     {
       schoolName: "IUT d'Orsay",
-      logo: require("./assets/images/iutorsay.png"),
+      logo: require("assets/images/iutorsay.png"),
       subHeader: "DUT Informatique",
       duration: "September 2016 - Septembre 2018",
       desc:
@@ -142,7 +142,7 @@ const workExperiences = {
     {
       role: "Front-End Developer",
       company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("assets/images/quoraLogo.png"),
       date: "May 2017 – May 2018",
       desc:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -150,7 +150,7 @@ const workExperiences = {
     {
       role: "Software Engineer Intern",
       company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("assets/images/airbnbLogo.png"),
       date: "Jan 2015 – Sep 2015",
       desc:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
