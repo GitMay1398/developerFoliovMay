@@ -17,7 +17,7 @@ export default function Greeting() {
               {" "}
               {greeting.title}
               {" "}
-              <span><img id="mayMemoji" src={require("../../assests/images/may_memoji.png")} ></img></span>
+              <span><img id="mayMemoji" src={require("../../assets/images/may_memoji.png")} ></img></span>
               <span className="wave-emoji">{emoji("👋")}</span>
             </h1>
             <p className="greeting-text-p subTitle">{greeting.subTitle}</p>
@@ -30,7 +30,7 @@ export default function Greeting() {
           </div>
         </div>
         <div className="greeting-image-div">
-          <img alt="may et internet" src={require("../../assests/images/mainFitting.svg")}></img>
+          <img alt="may et internet" src={require("../../assets/images/mainFitting.svg")}></img>
         </div>
       </div>
     </div>
