@@ -31,10 +31,10 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "Mes compétences",
-  subTitle: "UN PROFIL TECHNIQUE ORIENTÉE BUSINESS ",
+  subTitle: "4 ans d'expériences en projets digitaux agiles ",
   skills:
   [
-    emoji("⚡ 4 ans d'expériences en projets digitaux agiles"),
+    emoji("⚡ Un profil technique orientée business et client"),
     emoji("⚡ Customer-oriented : le produit réalisé apporte de la valeur à ces utilisateurs"),
     emoji("⚡ Organisation et communication sont mes atouts majeurs ")
   ],
