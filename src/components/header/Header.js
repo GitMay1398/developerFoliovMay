@@ -22,7 +22,7 @@ function Header() {
             <a href="#skills">Mes compétences</a>
           </li>
           <li>
-            <a href="#projects">Projets</a>
+            <a href="#projects">Mon expérience professionnelle</a>
           </li>
            <li>
             <a href="#achievements">Mon parcours académique</a>
