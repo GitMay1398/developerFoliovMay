@@ -1,7 +1,7 @@
 import React, {useState, createRef} from "react";
 import "./ExperienceCard.css";
 import ColorThief from "colorthief";
-const ColorThief = require('colorthief');
+//const ColorThief = require('colorthief');
 
 export default function ExperienceCard({cardInfo, isDark}) {
   const [colorArrays, setColorArrays] = useState([]);
