@@ -142,7 +142,7 @@ const workExperiences = {
     {
       role: "E-merchandiser",
       company: "Pierre et Vacances Center Parcs",
-      companylogo: require("./assets/images/pvcplogo.png"),
+      companylogo: require("./assets/images/CPlogo.png"),
       date: "Septembre 2018 – Septembre 2019",
       desc:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
