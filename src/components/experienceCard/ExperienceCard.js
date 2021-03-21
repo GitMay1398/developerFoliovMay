@@ -10,11 +10,11 @@ export default function ExperienceCard({cardInfo, isDark}) {
     setColorArrays(colorThief.getColor(imgRef.current));
   }*/
 
-  function rgb(values) {
+  /*function rgb(values) {
     return typeof values === "undefined"
       ? null
       : "rgb(" + values.join(", ") + ")";
-  }
+  }*/
 
   const GetDescBullets = ({descBullets, isDark}) => {
     return descBullets
@@ -31,7 +31,7 @@ export default function ExperienceCard({cardInfo, isDark}) {
 
   return (
     <div className= "experience-card">
-      <div style={{background: rgb(94,96,206)}} className="experience-banner">
+      <div style={{background: rgb(94,96,255)}} className="experience-banner">
         <div className="experience-blurred_div"></div>
         <div className="experience-div-company">
           <h5 className="experience-text-company">{cardInfo.company}</h5>
