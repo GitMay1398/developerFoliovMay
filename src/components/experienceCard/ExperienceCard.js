@@ -31,7 +31,7 @@ export default function ExperienceCard({cardInfo, isDark}) {
 
   return (
     <div className= "experience-card">
-      <div style={{background: rgb(colorArrays)}} className="experience-banner">
+      <div style={{background: rgb(94,96,206)}} className="experience-banner">
         <div className="experience-blurred_div"></div>
         <div className="experience-div-company">
           <h5 className="experience-text-company">{cardInfo.company}</h5>
