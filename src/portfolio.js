@@ -130,7 +130,7 @@ const workExperiences = {
     {
       role: "Chef de projet Tracking - DMP - AB Test",
       company: "La Française des Jeux ",
-      companylogo: require("./assets/images/fdjlogo.jpg"),
+      companylogo: require("./assets/images/fdjlogo.png"),
       date: "Septembre 2019 – Maintenant",
       desc:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
