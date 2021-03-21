@@ -128,7 +128,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Chef de projet Tracking - DMP - AB Test",
+      role: "Tracking - DMP - AB Test",
       company: "La Française des Jeux ",
       companylogo: require("./assets/images/fdjlogo.png"),
       date: "Septembre 2019 – Maintenant",
