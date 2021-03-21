@@ -190,11 +190,11 @@ const openSource = {
 // Some Big Projects You have worked with your company
 
 const bigProjects = {
-  title: "Parcours professionnel 👩🏾‍💻 ",
+  title: "Projets 👩🏾‍💻 ",
   subtitle: "Les projets auxquels j'ai pu participés",
   projects: [
     {
-      image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FFichier%3ALogo_de_la_Fran%25C3%25A7aise_des_jeux.svg&psig=AOvVaw0pnUwPK7HJsJ68KWKSr17C&ust=1603315829202000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjS44WPxOwCFQAAAAAdAAAAABAD",
+      image: "",
       link: ""
     },
     {
