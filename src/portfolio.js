@@ -149,7 +149,7 @@ const workExperiences = {
     },
     {
       role: "Ingénieur en développement web",
-      company: "GROUPAMA SUPPORTS SERVICES",
+      company: "Groupama Support et Services",
       companylogo: require("./assets/images/g2slogo.png"),
       date: "Septembre 2017 - Septembre 2018",
       desc:
