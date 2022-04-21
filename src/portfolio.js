@@ -194,11 +194,11 @@ const bigProjects = {
   subtitle: "Les projets auxquels j'ai pu participés",
   projects: [
     {
-      image: "",
+      image: require("./assets/images/logo_gate13.png"),
       link: ""
     },
     {
-      image: "",
+      image: require("./assets/images/logo_gate13.png"),
       link: ""
     }
   ]
