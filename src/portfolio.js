@@ -200,7 +200,7 @@ const bigProjects = {
       projectDescription:"Challenge de 6 mois pour créer un projet de toute pièce </br> Gate 13 est un site proposant à ses utilisateurs des voyages à bas prix. Gate 13 trouve les meilleurs et destinations pour partir à petit prix."
     },
     {
-      image: require("./assets/images/Article _1_crea_v2.png"),
+      image: require("./assets/images/Article_1_crea_v2.png"),
       link: "", 
       imageAlt: "Mentorat Article 1",
       projectDescription:"Article 1 œuvre pour une société où l’orientation, la réussite dans les études et l’insertion professionnelle ne dépendent pas des origines sociales, économiques et culturelles ; pour une société où la réussite passe par le lien social et l’engagement citoyen. </br> Mentorat d'un étudiant post-bac, apport de soutien et motivation "
@@ -214,7 +214,7 @@ const bigProjects = {
 const achievementSection = {
 
   title: emoji("Parcours académique 🏆 "),
-  subtitle: "Mes diplômes et certifications",
+  subtitle: "Mes diplômes ",
 
   achivementsCards: [
     {
