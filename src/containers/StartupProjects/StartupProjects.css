@@ -23,8 +23,8 @@
 .startup-project-text {
   display: flex;
   justify-content: space-around;
-    flex-grow: 1;
-    align-content: baseline;
+  flex-grow: 1;
+  align-content: baseline;
 }
 
 .project-card-description {
