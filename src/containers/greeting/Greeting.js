@@ -17,7 +17,7 @@ export default function Greeting() {
               {" "}
               {greeting.title}
               {" "}
-              <span><img id="mayMemoji" src={require("../../assets/images/may_memoji.png")} ></img></span>
+              <span><img id="mayMemoji" src={require("../../assets/images/may_memoji_421x421.png")} ></img></span>
               <span className="wave-emoji">{emoji("👋")}</span>
             </h1>
             <p className="greeting-text-p subTitle">{greeting.subTitle}</p>
