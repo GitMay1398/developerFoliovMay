@@ -11,7 +11,8 @@ const greeting = {
   title: "Bonjour, je suis Mayolie",
   subTitle: emoji("Forte de 5 ans d'expériences en projets digitaux, je suis prête à relever de nouveau défis ! Actuellement Digital Analyst spécialisée dans la collecte de donnée et l'a/b testing. Je me défini comme Data- driven, j'utilise la donnée pour prendre les meilleurs décisions possibles au quotidien."),
   subTitle2:"Les outils Adtech - Martech, le JavaScript et la Data n'ont aucun secret pour moi. ",
-  resumeLink: "https://www.cjoint.com/doc/22_05/LEDqXEQYOM7_Mayolie-Coulibaly-CV-CDP-2022.pdf"
+  resumeLink: "https://www.cjoint.com/doc/22_05/LEDqXEQYOM7_Mayolie-Coulibaly-CV-CDP-2022.pdf", 
+  resumeLink: "https://www.cjoint.com/doc/22_05/LEDtCtv3Xd7_Mayolie-Coulibaly-Resume-PM2-2022.pdf"
 };
 
 // Your Social Media Links
