@@ -25,7 +25,7 @@ export default function StartupProject() {
                   <img src={project.image} alt={project.imageAlt}/>
                   </span>
                   <a href="" target="_blank">
-                      <h2>Gate 13</h2>
+                      <h2>{project.titleProjet}</h2>
                       <div class="content">
                           <p>{project.projectDescription}</p>
                       </div>

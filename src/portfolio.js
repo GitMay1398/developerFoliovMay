@@ -128,7 +128,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Ditital analyst - Tracking & CRO",
+      role: "Digital analyst - Tracking & CRO",
       company: "La Française des Jeux ",
       companylogo: require("./assets/images/fdjlogo.png"),
       date: "Septembre 2019 – Maintenant",
@@ -206,12 +206,14 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/logo_gate13.png"),
+      titleProjet:"Gate 13",
       link: "", 
       imageAlt: "Gate 13,  challenge 6 mois",
       projectDescription:"Challenge de 6 mois pour créer un projet de toute pièce </br> Gate 13 est un site proposant à ses utilisateurs des voyages à bas prix. Gate 13 trouve les meilleurs et destinations pour partir à petit prix."
     },
     {
       image: require("./assets/images/Article_1_crea_v2.png"),
+      titleProjet:"Mentorat Article 1",
       link: "", 
       imageAlt: "Mentorat Article 1",
       projectDescription:"Article 1 œuvre pour une société où l’orientation, la réussite dans les études et l’insertion professionnelle ne dépendent pas des origines sociales, économiques et culturelles ; pour une société où la réussite passe par le lien social et l’engagement citoyen. </br> Mentorat d'un étudiant post-bac, apport de soutien et motivation "
