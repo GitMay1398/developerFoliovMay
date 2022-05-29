@@ -9,9 +9,9 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "May says Hi ",
   title: "Bonjour, je suis Mayolie",
-  subTitle: emoji("Jeune diplômée de Grenoble École de Management 🚀 Après 4 ans d'alternance dans différentes entreprises je suis à la recherche de mon premier CDI !"),
+  subTitle: emoji("Forte de 5 ans d'expériences en projets digitaux, je suis prête à relever de nouveau défis ! Actuellement digital analyst spécialisé dans la collecte de donnée et l'a/b testing et surtout Data- driven, j'utilise la donnée pour prendre les meilleurs décisions possibles au quotidien."),
   subTitle2:"Les outils Adtech - Martech, le JavaScript et la Data n'ont aucun secret pour moi. ",
-  resumeLink: "https://www.cjoint.com/doc/20_10/JJrlRTAhjmW_Mayolie-Coulibaly-CV-2020.pdf"
+  resumeLink: "https://www.cjoint.com/doc/22_05/LEDqXEQYOM7_Mayolie-Coulibaly-CV-CDP-2022.pdf"
 };
 
 // Your Social Media Links
