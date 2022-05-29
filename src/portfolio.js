@@ -128,15 +128,16 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Tracking - DMP - AB Test",
+      role: "DIGITAL ANALYST - TRACKING & CRO",
       company: "La Française des Jeux ",
       companylogo: require("./assets/images/fdjlogo.png"),
       date: "Septembre 2019 – Maintenant",
       desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        " ",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Responsable de l'a/b testing sur le site fdj.fr et l'application mobile FDJ",
+        "Analyse de résultats et du comportement d’achat par le biais de différentes approches analytiques (AT Internet, My feel back,Reporting interne )", 
+        "Gestion d'outils Martech et Adtech :Kameleoon, AT Internet, Eulerian et Tag Commander"
       ]
     },
     {
@@ -145,7 +146,12 @@ const workExperiences = {
       companylogo: require("./assets/images/CPlogo.png"),
       date: "Septembre 2018 – Septembre 2019",
       desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        "",
+      descBullets: [
+      "En charge de l'a/b testing sur le site Centerparcs.fr", 
+      "Animation commerciale :Contrôle de la fiabilité et de la qualité des informations intégrées sur le site web", 
+      "Création de landing pages spécifiques et adaptées à la source de trafic" 
+      ]
     },
     {
       role: "Ingénieur en développement web",
@@ -153,7 +159,12 @@ const workExperiences = {
       companylogo: require("./assets/images/g2slogo.png"),
       date: "Septembre 2017 - Septembre 2018",
       desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        " ",
+      descBullets: [
+        "Maintenance de Groupama.fr",
+        "Programmation :JAVA,JSP,JavaScript, CSS, HTML, Liferay", 
+        "Recette et tests de non régression"
+      ]
     }
   ]
 };
